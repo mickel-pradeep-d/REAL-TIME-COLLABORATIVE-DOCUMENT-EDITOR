@@ -66,6 +66,8 @@ React Quill provides a rich text interface where users can apply headers, bold/i
 
 **Working demo video**
 
+https://drive.google.com/file/d/1U07GcsHJbSC2yUgVCx_83UddFo8ZybjX/view?usp=sharing
+
 ![Image](https://github.com/user-attachments/assets/617c56f7-4b20-4579-af93-8826145e810b)
 
 ![Image](https://github.com/user-attachments/assets/3db36768-ba13-4a44-bb4a-025374678059)
