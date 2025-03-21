@@ -1,4 +1,18 @@
-# PROJECT DESCRIPTION  
+# CHAT APPLICATION
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : MICKEL PRADEEP D
+
+**INTERN ID** : CT12NIW
+
+**DOMAIN** : FULL STACK WEB DEVELOPMENT
+
+**DURATION** : 8 WEEKS
+
+**MENTOR** : NEELA SANTOSH KUMAR
+
+## PROJECT DESCRIPTION  
 **TITLE** : Real-time Collaborative Document Editor
 
 This is a real-time collaborative document editor built using **React**, **Node.js**, **Express.js**, **Socket.io**, and **MongoDB**. The application allows multiple users to edit the same document simultaneously with live synchronization and rich text formatting.
